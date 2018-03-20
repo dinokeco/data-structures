@@ -1,37 +1,39 @@
 package ba.edu.ibu.ds.week3;
 
-import java.util.Iterator;
-
-public class ResizingArrayStack<Item> implements Stack<Item>{
-
-	@Override
-	public Iterator<Item> iterator() {
-		// TODO Auto-generated method stub
-		return null;
-	}
+public class ResizingArrayStack<Item> extends FixedSizeArrayStack<Item>{
 
 	@Override
 	public void push(Item item) {
-		// TODO Auto-generated method stub
-		
+		if (count == stack.length) {
+			this.resize(2*count);
+		}
+		super.push(item);
 	}
 
 	@Override
 	public Item pop() {
-		// TODO Auto-generated method stub
-		return null;
+		if (count > 0 && count == stack.length / 4)
+			resize(stack.length/2);
+		return super.pop();
 	}
 
 	@Override
 	public int count() {
-		// TODO Auto-generated method stub
-		return 0;
+		return count;
 	}
 
 	@Override
 	public boolean isEmpty() {
-		// TODO Auto-generated method stub
-		return false;
+		return count==0;
+	}
+	
+	@SuppressWarnings("unchecked")
+	private void resize(int capacity) {
+		Item[] copy =  (Item[]) new Object[capacity];
+		for(int i = 0; i < count; i++) {
+			copy[i] = stack[i];
+		}
+		stack = copy;
 	}
 
 }
