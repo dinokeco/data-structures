@@ -5,19 +5,19 @@ package ba.edu.ibu.collections;
  * @author Dino Keco
  *
  */
-public class Node {
+public class Node<T> {
 	
-	private int value;
+	private T value;
 	
-	private Node next;
+	private Node<T> next;
 	
-	public Node(int value, Node next) {
+	public Node(T value, Node<T> next) {
 		super();
 		this.value = value;
 		this.next = next;
 	}
 
-	public Node(int value) {
+	public Node(T value) {
 		super();
 		this.value = value;
 	}
@@ -26,19 +26,19 @@ public class Node {
 		super();
 	}
 
-	public int getValue() {
+	public T getValue() {
 		return value;
 	}
 
-	public void setValue(int value) {
+	public void setValue(T value) {
 		this.value = value;
 	}
 
-	public Node getNext() {
+	public Node<T> getNext() {
 		return next;
 	}
 
-	public void setNext(Node next) {
+	public void setNext(Node<T> next) {
 		this.next = next;
 	}
 
