@@ -113,17 +113,33 @@ public class DoublyLinkedListTest {
     }
 
     @Test
-    void testGetTail() {
+    void testGetHeadAndTail() {
         DoublyLinkedList<Integer> dll = new DoublyLinkedList<>();
 
         dll.addToRear(4);
         dll.addToRear(5);
+        dll.addToRear(6);
         dll.addToRear(7);
 
-        int tail = dll.get(dll.count() - 1);
+        Node2<Integer> head = dll.getHead();
+        Node2<Integer> tail = dll.getTail();
 
-        assertEquals(7, tail);
+        assertEquals(4, head.data);
+        assertEquals(7, tail.data);
     }
 
+    @Test
+    void testNextAndPrevNode() {
+        DoublyLinkedList<Integer> dll = new DoublyLinkedList<>();
+
+        dll.addToRear(4);
+        dll.addToRear(8);
+        dll.addToRear(6);
+        
+        Node2<Integer> node = dll.getHead().next; // should be node "8"
+
+        assertEquals(4, node.prev.data);
+        assertEquals(6, node.next.data);
+    }
 
 }

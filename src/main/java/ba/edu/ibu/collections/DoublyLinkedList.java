@@ -73,4 +73,14 @@ public class DoublyLinkedList<Item> implements Iterable<Item> {
             return null;
         }
     }
+    
+    /* Get head node (for test purposes) */
+    public Node2<Item> getHead() {
+    	return head;
+    }
+    
+    /* Get tail node (for test purposes) */
+    public Node2<Item> getTail() {
+    	return tail;
+    }
 }
