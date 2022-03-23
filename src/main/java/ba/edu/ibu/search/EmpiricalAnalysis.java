@@ -8,7 +8,7 @@ public class EmpiricalAnalysis {
 	
 	public static void main(String[] args) {
 		// Change the algorithm ("sequential" or "binary") and the number of elements
-		runAndMeasureAlgorithm("binary", 1000);
+		runAndMeasureAlgorithm("sequential", 1000);
 	}
 	
 	public static void runAndMeasureAlgorithm(String algorithm, int arraySize) {
