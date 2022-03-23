@@ -58,7 +58,7 @@ public class DoublyLinkedList<Item> implements Iterable<Item> {
     }
 
     /* Define the Iterator class, and hasNext() and next() methods */
-    public class DoublyLinkedListIterator implements Iterator<Item> {
+    private class DoublyLinkedListIterator implements Iterator<Item> {
         //your code
 
         @Override
