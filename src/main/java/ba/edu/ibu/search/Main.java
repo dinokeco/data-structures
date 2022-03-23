@@ -3,7 +3,7 @@ package ba.edu.ibu.search;
 public class Main {
 
 	public static void main(String[] args) {
-		sequentialSearchDemo();
+//		sequentialSearchDemo();
 		binarySearchDemo();
 	}
 

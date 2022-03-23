@@ -1,12 +1,14 @@
 package ba.edu.ibu.search;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Random;
 
 public class EmpiricalAnalysis {
 	
 	public static void main(String[] args) {
 		// Change the algorithm ("sequential" or "binary") and the number of elements
-		runAndMeasureAlgorithm("sequential", 1000);
+		runAndMeasureAlgorithm("binary", 1000);
 	}
 	
 	public static void runAndMeasureAlgorithm(String algorithm, int arraySize) {
@@ -20,6 +22,7 @@ public class EmpiricalAnalysis {
 				index = SequentialSearch.search(elements, key);
 				break;
 			case "binary":
+				Arrays.sort(elements);
 				index = BinarySearch.search(elements, key);
 				break;
 			default:
