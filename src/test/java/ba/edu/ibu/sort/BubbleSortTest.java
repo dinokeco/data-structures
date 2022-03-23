@@ -1,17 +1,11 @@
-package ba.edu.ibu.search;
+package ba.edu.ibu.sort;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
-
-import ba.edu.ibu.sort.BubbleSort;
 
 @TestMethodOrder(OrderAnnotation.class)
 class BubbleSortTest {
