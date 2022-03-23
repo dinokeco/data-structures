@@ -44,7 +44,7 @@ public class Queue<Item> {
         head = head.next;												// 3
         size--;															// 4
         
-        if (isEmpty()) {												// 5
+        if (isEmpty()) {											    // 5
         	tail = null;												// 5
         }
         

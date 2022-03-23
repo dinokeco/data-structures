@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 /**
  * Doubly linked list implementation.
- * <p>
+ * 
  * Implement the missing method code.
  * Feel free to delete "return null", etc. lines; they're just placeholders.
  *
