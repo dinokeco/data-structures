@@ -15,6 +15,10 @@ public class EmpiricalAnalysis {
 		int[] elements = generateArray(arraySize);
 		int key = new Random().nextInt(arraySize * 10); // key to be found
 		
+		if (algorithm == "binary") {
+			Arrays.sort(elements);
+		}
+		
 		long start = System.currentTimeMillis(); // start measuring time
 		int index;
 		switch (algorithm) {
@@ -22,7 +26,6 @@ public class EmpiricalAnalysis {
 				index = SequentialSearch.search(elements, key);
 				break;
 			case "binary":
-				Arrays.sort(elements);
 				index = BinarySearch.search(elements, key);
 				break;
 			default:
