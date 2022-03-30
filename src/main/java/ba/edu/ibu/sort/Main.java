@@ -5,8 +5,8 @@ import java.util.Random;
 public class Main {
 
 	public static void main(String[] args) {
-		insertionSortDemo();
-//		compareAlgorithms();
+//		insertionSortDemo();
+		compareAlgorithms();
 	}
 	
 	private static void compareAlgorithms() {

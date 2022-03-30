@@ -6,7 +6,7 @@ package ba.edu.ibu.sort;
  * @author Aldin Kovačević
  * @author Amar Mujagić
  */
-public class BubbleSort {
+public class BubbleSort extends AbstractSort {
 	
 	public static void sort(int[] elements) {
 		// your code
