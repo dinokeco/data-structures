@@ -1,4 +1,4 @@
-package ba.edu.ibu.sort;
+package ba.edu.ibu.sort.comparable;
 
 public class Student implements Comparable<Student> {
 	

@@ -25,5 +25,13 @@ Data Structures @ International Burch University
 - [[Week 3] Lab recording(s)](https://drive.google.com/drive/folders/1EhsG2xL7AAbmBBMVrAOhw8EAJr07__iF?usp=sharing)
 - [[Week 3] Homework 2: Bubble Sort & Binary Search on Complex Data](https://docs.google.com/document/d/1cWI_Wb8jiYfG_QDaGjIl4wmPvF1VcWNenayQJ3ulUV4/edit?usp=sharing)
 
+
+## Week 4: Elementary Sorts
+- [[Week 4] Lecture slides](https://docs.google.com/presentation/d/1WBuj9v-5RzXjB6kNMpEl6Tz7-syS7Hg0bzQoien0aMc/edit?usp=sharing)
+- [[Week 4] Lecture recording 1: Elementary Sort Algorithms](https://drive.google.com/file/d/1X2aN-mKy9vsHuZPiOFjcKloysjdw9GL-/view?usp=sharing)
+- [[Week 4] Lecture recording 2: Elementary Sort Algorithms](https://drive.google.com/file/d/1A6sANV5uPEMwATi8ySSi5FesirEM-RmV/view?usp=sharing)
+- [[Week 4] Lab document](https://docs.google.com/document/d/1Hk6rVGdzRDgb7P-4h-rJMrlC8NUC2QcTiGSRZPvLmV4/edit?usp=sharing)
+
+
 ---
 https://ibu.edu.ba
