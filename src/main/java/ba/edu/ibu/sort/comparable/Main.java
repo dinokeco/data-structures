@@ -7,11 +7,11 @@ public class Main {
 	public static void main(String[] args) {
 		Student[] students = {
 			new Student("Name 1", 7.34),
-			new Student("Name 2", 5.32),	
-			new Student("Name 3", 8.54),	
+			new Student("Name 6", 5.32),	
+			new Student("Name 2", 8.54),	
 			new Student("Name 4", 10),	
-			new Student("Name 5", 6.74),	
-			new Student("Name 6", 9.76),	
+			new Student("Name 3", 6.74),	
+			new Student("Name 5", 9.76),	
 		};
 		
 		Arrays.sort(students);
