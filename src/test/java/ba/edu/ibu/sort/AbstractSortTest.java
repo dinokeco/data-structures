@@ -25,8 +25,15 @@ public abstract class AbstractSortTest {
 			case "shell":
 				ShellSort.sort(elements);
 				break;
+			case "recursive-merge":
+				MergeSort.sort(elements);
+				break;
+			case "iterative-merge":
+				BottomUpMergeSort.sort(elements);
+				break;
 			default:
-				System.out.println("Invalid algorithm selected. Use 'bubble', 'selection', 'insertion' or 'shell'.");
+				System.out.println("Invalid algorithm selected. Use 'bubble', 'selection', 'insertion', 'shell', "
+						+ "'recursive-merge' or 'iterative-merge'.");
 				return;
 		}
 	

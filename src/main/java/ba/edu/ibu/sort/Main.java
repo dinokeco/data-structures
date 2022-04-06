@@ -6,7 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 //		insertionSortDemo();
-		compareAlgorithms();
+		mergeSortDemo();
+//		compareAlgorithms();
 	}
 	
 	private static void compareAlgorithms() {
@@ -55,6 +56,24 @@ public class Main {
 	        
 	    /* Sort the array */
 	    InsertionSort.sort(elements);
+	        
+	    /* Print the elements */
+	    for (int i: elements) {
+	        System.out.println(i);
+	    }
+	}
+	
+	private static void mergeSortDemo() {
+	    int[] elements = new int[100];
+	    Random random = new Random();
+	        
+	    /* Generate random elements */
+	    for (int i = 0; i < elements.length; i++) {
+	        elements[i] = random.nextInt(1000);
+	    }
+	        
+	    /* Sort the array */
+	    MergeSort.sort(elements);
 	        
 	    /* Print the elements */
 	    for (int i: elements) {
