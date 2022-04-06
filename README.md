@@ -40,6 +40,8 @@ Data Structures @ International Burch University
 - [[Week 5] Lecture recording 1: Merge Sort](https://drive.google.com/file/d/1e-YdhvVpOZmPMQKMG7OawztpExI3w2L4/view?usp=sharing)
 - [[Week 5] Lecture recording 2: Merge Sort Analysis](https://drive.google.com/file/d/1w3kx8557UZdIUOP9foGFD7fqoOREv6WY/view?usp=sharing)
 - [[Week 5] Lab document](https://docs.google.com/document/d/1qjPgflam8Kd598q_rof390fnlkxFibcA8SSZxz8ZKrU/edit?usp=sharing)
+- [[Week 5] Lab recording(s)](https://drive.google.com/drive/folders/1I2JrjB9sg3vaz33Vq_TVpvB7jX9u5A6Y?usp=sharing)
+- [[Week 5] Homework 4: Merge Sort on Complex Data](https://docs.google.com/document/d/1zah3cpQFheurHLqJ-twy73AirUmxxtRarI2oIgAS5TI/edit?usp=sharing)
 
 
 ---
