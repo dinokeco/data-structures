@@ -31,6 +31,15 @@ Data Structures @ International Burch University
 - [[Week 4] Lecture recording 1: Elementary Sort Algorithms](https://drive.google.com/file/d/1X2aN-mKy9vsHuZPiOFjcKloysjdw9GL-/view?usp=sharing)
 - [[Week 4] Lecture recording 2: Elementary Sort Algorithms](https://drive.google.com/file/d/1A6sANV5uPEMwATi8ySSi5FesirEM-RmV/view?usp=sharing)
 - [[Week 4] Lab document](https://docs.google.com/document/d/1Hk6rVGdzRDgb7P-4h-rJMrlC8NUC2QcTiGSRZPvLmV4/edit?usp=sharing)
+- [[Week 4] Lab recording(s)](https://drive.google.com/drive/folders/12GvBbjmhOJQCXFMQVo8CqBNPBIKQ_2fM?usp=sharing)
+- [[Week 4] Homework 3: Elementary Sorts on Complex Data](https://docs.google.com/document/d/1uxIKbiqmZrcV3QBv5UJC_fkrxeKEPG1m6_S5j5bd0zg/edit)
+
+
+## Week 5: Merge Sort
+- [[Week 5] Lecture slides](https://docs.google.com/presentation/d/1w25YxxwzxfPT4_qjFcrPeRWX344QUbXCpLjBZEt_fDU/edit?usp=sharing)
+- [[Week 5] Lecture recording 1: Merge Sort](https://drive.google.com/file/d/1e-YdhvVpOZmPMQKMG7OawztpExI3w2L4/view?usp=sharing)
+- [[Week 5] Lecture recording 2: Merge Sort Analysis](https://drive.google.com/file/d/1w3kx8557UZdIUOP9foGFD7fqoOREv6WY/view?usp=sharing)
+- [[Week 5] Lab document](https://docs.google.com/document/d/1qjPgflam8Kd598q_rof390fnlkxFibcA8SSZxz8ZKrU/edit?usp=sharing)
 
 
 ---
