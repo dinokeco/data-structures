@@ -21,25 +21,25 @@ public class QuickSort extends AbstractSort {
     }
 	
 	 private static int partition(int[] elements, int low, int high) {
-	        int i = low;                                            // 1
-	        int j = high + 1;                                       // 1
-	        while (true) {                                          // 2
-	            while (less(elements[++i], elements[low])) {        // 3
-	                if (i == high) {                                // 3
-	                    break;                                      // 3
+	        int i = low;
+	        int j = high + 1;
+	        while (true) {
+	            while (less(elements[++i], elements[low])) {
+	                if (i == high) {
+	                    break;
 	                }
 	            }
-	            while (less(elements[low], elements[--j])) {        // 4
-	                if (j == low) {                                 // 4
-	                    break;                                      // 4
+	            while (less(elements[low], elements[--j])) {
+	                if (j == low) {
+	                    break;
 	                }
 	            }
-	            if (i >= j) {                                       // 5
-	                break;                                          // 5
+	            if (i >= j) {
+	                break;
 	            }
-	            swap(elements, i, j);                               // 6
+	            swap(elements, i, j);
 	        }
-	        swap(elements, low, j);                                 // 7
-	        return j;                                               // 7
+	        swap(elements, low, j);
+	        return j;
 	    }
 }
