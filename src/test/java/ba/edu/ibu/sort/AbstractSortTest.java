@@ -31,9 +31,12 @@ public abstract class AbstractSortTest {
 			case "iterative-merge":
 				BottomUpMergeSort.sort(elements);
 				break;
+			case "quick":
+				QuickSort.sort(elements);
+				break;
 			default:
 				System.out.println("Invalid algorithm selected. Use 'bubble', 'selection', 'insertion', 'shell', "
-						+ "'recursive-merge' or 'iterative-merge'.");
+						+ "'recursive-merge', 'iterative-merge' or 'quick'.");
 				return;
 		}
 	
