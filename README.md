@@ -43,6 +43,13 @@ Data Structures @ International Burch University
 - [[Week 5] Lab recording(s)](https://drive.google.com/drive/folders/1I2JrjB9sg3vaz33Vq_TVpvB7jX9u5A6Y?usp=sharing)
 - [[Week 5] Homework 4: Merge Sort on Complex Data](https://docs.google.com/document/d/1zah3cpQFheurHLqJ-twy73AirUmxxtRarI2oIgAS5TI/edit?usp=sharing)
 
+## Week 6: Quick Sort
+- [[Week 6] Lecture slides](https://docs.google.com/presentation/d/1-DfgmRGl-XaVPn-0rg1WtZq1r6u0qQaydv0rHVFKgPY/edit?usp=sharing)
+- [[Week 6] Lecture recording 1: Quick Sort](https://drive.google.com/file/d/1mfRm9haynfo6A3U5KZ_bbC-jsLvlHcys/view?usp=sharing)
+- [[Week 6] Lab document](https://docs.google.com/document/d/1vJnkgq5YSZiKSzO0T2wV-DoGMcNv5KQd07_7aIBELoQ/edit?usp=sharing)
+- [Week 6] Lab recording(s) - TBA
+- [Week 6] Homework 5: Quick Sort on Complex Data - TBA
+
 
 ---
 https://ibu.edu.ba
