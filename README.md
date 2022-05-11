@@ -47,9 +47,23 @@ Data Structures @ International Burch University
 - [[Week 6] Lecture slides](https://docs.google.com/presentation/d/1-DfgmRGl-XaVPn-0rg1WtZq1r6u0qQaydv0rHVFKgPY/edit?usp=sharing)
 - [[Week 6] Lecture recording 1: Quick Sort](https://drive.google.com/file/d/1mfRm9haynfo6A3U5KZ_bbC-jsLvlHcys/view?usp=sharing)
 - [[Week 6] Lab document](https://docs.google.com/document/d/1vJnkgq5YSZiKSzO0T2wV-DoGMcNv5KQd07_7aIBELoQ/edit?usp=sharing)
-- [Week 6] Lab recording(s) - TBA
-- [Week 6] Homework 5: Quick Sort on Complex Data - TBA
+- [[Week 6] Lab recording(s)](https://drive.google.com/drive/folders/1f-gxEmQeSY9T6TM5RZtLC4kvCazLVqAD?usp=sharing)
+- [[Week 6] Homework 5: Quick Sort on Complex Data - TBA](https://docs.google.com/document/d/1oa0AZy79tkJNSaEaHEPPAxg-jaWwDh7svqmOrqfTrts/edit?usp=sharing)
 
+## Week 7: Midterm Exam Preparation
+- [[Week 7] Midterm Exam Preparation](https://docs.google.com/document/d/1RbwZelRTSXB-mqw62YoqFjLjeZwCAn05LBSmKDj0RnQ/edit?usp=sharing)
+- [[Week 7] Lab recording(s)](https://drive.google.com/drive/folders/1MlPsHC2LxkcUhytMU-PsgVdExy9FANCD?usp=sharing)
+
+
+## Week 8: Midterm Exam Week
+## Week 9: Midterm Exam Week
+## Week 10: Radix Sort
+- [[Week 10] Lecture slides](https://docs.google.com/presentation/d/1w25YxxwzxfPT4_qjFcrPeRWX344QUbXCpLjBZEt_fDU/edit?usp=sharing)
+- [[Week 10] Lecture recording 1: Merge Sort](https://drive.google.com/file/d/1e-YdhvVpOZmPMQKMG7OawztpExI3w2L4/view?usp=sharing)
+- [[Week 10] Lecture recording 2: Merge Sort Analysis](https://drive.google.com/file/d/1w3kx8557UZdIUOP9foGFD7fqoOREv6WY/view?usp=sharing)
+- [[Week 10] Lab document](https://docs.google.com/document/d/1qjPgflam8Kd598q_rof390fnlkxFibcA8SSZxz8ZKrU/edit?usp=sharing)
+- [Week 10] Lab recording(s) - TBA
+- [Week 10] Homework 6: Radix Sort on Complex Data - TBA
 
 ---
 https://ibu.edu.ba
