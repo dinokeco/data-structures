@@ -58,10 +58,9 @@ Data Structures @ International Burch University
 ## Week 8: Midterm Exam Week
 ## Week 9: Midterm Exam Week
 ## Week 10: Radix Sort
-- [[Week 10] Lecture slides](https://docs.google.com/presentation/d/1w25YxxwzxfPT4_qjFcrPeRWX344QUbXCpLjBZEt_fDU/edit?usp=sharing)
-- [[Week 10] Lecture recording 1: Merge Sort](https://drive.google.com/file/d/1e-YdhvVpOZmPMQKMG7OawztpExI3w2L4/view?usp=sharing)
-- [[Week 10] Lecture recording 2: Merge Sort Analysis](https://drive.google.com/file/d/1w3kx8557UZdIUOP9foGFD7fqoOREv6WY/view?usp=sharing)
-- [[Week 10] Lab document](https://docs.google.com/document/d/1qjPgflam8Kd598q_rof390fnlkxFibcA8SSZxz8ZKrU/edit?usp=sharing)
+- [[Week 10] Lecture slides](https://docs.google.com/presentation/d/1W7p1JdB6V78OA2doJ5IoQjN7WLiwsqRdLHo1Cuvl0-Q/edit?usp=sharing)
+- [[Week 10] Lecture recording 1: Radix Sort](https://drive.google.com/file/d/1L7G9k1wn7JmHuGgqMw96gSd0W71oIy7x/view?usp=sharing)
+- [[Week 10] Lab document](https://docs.google.com/document/d/1cVdtNWBOm_ibCsfWqA6UfqoMr-0RcST9NAWnWA_Qgvo/edit?usp=sharing)
 - [Week 10] Lab recording(s) - TBA
 - [Week 10] Homework 6: Radix Sort on Complex Data - TBA
 
