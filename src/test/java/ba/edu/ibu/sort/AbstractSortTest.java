@@ -34,9 +34,15 @@ public abstract class AbstractSortTest {
 			case "quick":
 				QuickSort.sort(elements);
 				break;
+			case "radix":
+				RadixSort.sort(elements);
+				break;
+			case "radix-alt":
+				RadixSortAlt.sort(elements);
+				break;
 			default:
 				System.out.println("Invalid algorithm selected. Use 'bubble', 'selection', 'insertion', 'shell', "
-						+ "'recursive-merge', 'iterative-merge' or 'quick'.");
+						+ "'recursive-merge', 'iterative-merge', 'quick', 'radix' or 'radix-alt'.");
 				return;
 		}
 	
