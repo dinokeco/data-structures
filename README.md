@@ -61,8 +61,16 @@ Data Structures @ International Burch University
 - [[Week 10] Lecture slides](https://docs.google.com/presentation/d/1W7p1JdB6V78OA2doJ5IoQjN7WLiwsqRdLHo1Cuvl0-Q/edit?usp=sharing)
 - [[Week 10] Lecture recording 1: Radix Sort](https://drive.google.com/file/d/1L7G9k1wn7JmHuGgqMw96gSd0W71oIy7x/view?usp=sharing)
 - [[Week 10] Lab document](https://docs.google.com/document/d/1cVdtNWBOm_ibCsfWqA6UfqoMr-0RcST9NAWnWA_Qgvo/edit?usp=sharing)
-- [Week 10] Lab recording(s) - TBA
-- [Week 10] Homework 6: Radix Sort on Complex Data - TBA
+- [[Week 10] Lab recording(s)](https://docs.google.com/document/d/1cVdtNWBOm_ibCsfWqA6UfqoMr-0RcST9NAWnWA_Qgvo/edit?usp=sharing)
+- [[Week 10] Homework 6: Radix Sort on Complex Data](https://learning.ibu.edu.ba/mod/assign/view.php?id=56828)
+
+## Week 11: Binary Heap
+- [[Week 11] Lecture slides](https://learning.ibu.edu.ba/pluginfile.php/28327/mod_resource/content/0/heap.pdf)
+- [[Week 11] Lecture recording 1: Priority queues](https://drive.google.com/file/d/1EPK-J5OsrfrGqSKnSQL0NakH_THkOjI0/view?usp=sharing)
+- [[Week 11] Lecture recording 2: Heap](https://drive.google.com/file/d/1iAhVckLtePptumSuWKirUQ8voqPgCgnY/view?usp=sharing)
+- [[Week 11] Lab document](https://docs.google.com/document/d/1assYvQ6fvmEnqi8DsqY8ZUZWUGoEtck64YCJEK62zSY/edit?usp=sharing)
+- [Week 11] Lab recording(s) - TBA
+- [Week 11] Homework 7 - TBA
 
 ---
 https://ibu.edu.ba
