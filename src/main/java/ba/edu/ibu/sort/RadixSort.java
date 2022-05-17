@@ -19,9 +19,9 @@ public class RadixSort extends AbstractSort {
  
     /* Digit-wise radix sort logic */
     private static void sort(int[] elements, int exp) {
-        int[] aux = new int[elements.length];
+    	int[] aux = new int[elements.length];
         int[] frequency = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-        
+
         for (int i = 0; i < elements.length; i++) {
             int digit = (elements[i] / exp) % 10;
             frequency[digit]++;
@@ -30,9 +30,9 @@ public class RadixSort extends AbstractSort {
         for (int i = 1; i < 10; i++) {
             frequency[i] += frequency[i - 1];
         }
-        
+
         for (int i = elements.length - 1; i >= 0; i--) {
-            int digit = (elements[i] / exp) % 10;
+            int digit = (elements[i] / exp) % 10; // 1
             aux[frequency[digit] - 1] = elements[i];
             frequency[digit]--;
         }

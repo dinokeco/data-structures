@@ -40,9 +40,12 @@ public abstract class AbstractSortTest {
 			case "radix-alt":
 				RadixSortAlt.sort(elements);
 				break;
+			case "heap":
+				HeapSort.sort(elements);
+				break;
 			default:
 				System.out.println("Invalid algorithm selected. Use 'bubble', 'selection', 'insertion', 'shell', "
-						+ "'recursive-merge', 'iterative-merge', 'quick', 'radix' or 'radix-alt'.");
+						+ "'recursive-merge', 'iterative-merge', 'quick', 'radix', 'radix-alt' or 'heap'.");
 				return;
 		}
 	
