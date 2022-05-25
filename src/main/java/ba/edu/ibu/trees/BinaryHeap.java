@@ -7,8 +7,8 @@ package ba.edu.ibu.trees;
  * @author Amar Mujagić
  */
 public class BinaryHeap<Item extends Comparable<Item>> {
-    
-    @SuppressWarnings({ "unchecked" })
+
+	@SuppressWarnings({ "unchecked" })
     public Item[] pq = (Item[]) new Comparable[2];
     public int length = 0;
     
