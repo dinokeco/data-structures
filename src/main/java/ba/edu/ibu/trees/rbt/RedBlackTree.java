@@ -70,6 +70,7 @@ public class RedBlackTree<Key extends Comparable<Key>, Value> {
 	/* Add a value to the red-black tree under a given key */
 	public void put(Key key, Value value) {
 		root = put(root, key, value);
+		root.color = BLACK;
 	}
 	
 	/* Private put() method */
