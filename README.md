@@ -69,8 +69,26 @@ Data Structures @ International Burch University
 - [[Week 11] Lecture recording 1: Priority queues](https://drive.google.com/file/d/1EPK-J5OsrfrGqSKnSQL0NakH_THkOjI0/view?usp=sharing)
 - [[Week 11] Lecture recording 2: Heap](https://drive.google.com/file/d/1iAhVckLtePptumSuWKirUQ8voqPgCgnY/view?usp=sharing)
 - [[Week 11] Lab document](https://docs.google.com/document/d/1assYvQ6fvmEnqi8DsqY8ZUZWUGoEtck64YCJEK62zSY/edit?usp=sharing)
-- [Week 11] Lab recording(s) - TBA
-- [Week 11] Homework 7 - TBA
+- [[Week 11] Lab recording(s)](https://drive.google.com/drive/folders/1Q1JEEUy0m9boCZNEhvUQGDOEv1a4yMyb?usp=sharing)
+- [[Week 11] Homework 7: Heap Sort on Complex Data](https://docs.google.com/document/d/1PAOjgtScrqLlOqwQ0THvhWggDAj0Wu4JEKQ7LRQAACI/edit?usp=sharing)
+
+## Week 12: Binary Search Trees
+- [[Week 12] Lecture slides](https://learning.ibu.edu.ba/pluginfile.php/28329/mod_resource/content/0/binary_search_trees.pdf)
+- [[Week 12] Lecture recording 1: BST Put and Get](https://drive.google.com/file/d/1Ew3dpdIKkqm2liXDinCQspAASxZjs9vH/view?usp=sharing)
+- [[Week 12] Lecture recording 2: BST Delete](https://drive.google.com/file/d/1Ew3dpdIKkqm2liXDinCQspAASxZjs9vH/view?usp=sharing)
+- [[Week 12] Lab document](https://docs.google.com/document/d/1NztPG4t_qyEbOhetN13JcgaI__fHKORw9cGur3tMJJ0/edit?usp=sharing)
+- [[Week 12] Lab recording(s)](https://drive.google.com/drive/folders/16LgsWoWJYXZtcbCJwCin-uVJL__elJ-Y?usp=sharing)
+- [[Week 12] Homework 8: Binary Search Trees with Practical Data](https://docs.google.com/document/d/18FVQamSEBn_6DjE3pbCAq0DWqkjueLR8su7HhQjfSyI/edit?usp=sharing)
+
+## Week 13: No Lectures
+
+## Week 14: Balanced Search Trees
+- [[Week 14] Lecture slides](https://learning.ibu.edu.ba/pluginfile.php/29029/mod_resource/content/0/balanced_search_trees.pdf)
+- [[Week 14] Lecture recording 1: Balanced Search Tree 1](https://drive.google.com/file/d/1BT8vLOL46tQOt9mxZ-OVIbyAFoF47bMb/view?usp=sharing)
+- [[Week 14] Lecture recording 2: Balanced Search Tree 2](https://drive.google.com/file/d/1DIpYWoW9bdFfO07uVVDZREf0GQoxnLyR/view?usp=sharing)
+- [[Week 14] Lab document](https://docs.google.com/document/d/1pb0PND7-6gfujcBFNpTuqQRa8_hDhnGbPuRj13A6sls/edit?usp=sharing)
+- [Week 14] Lab recording(s)] - TBA
+- [Week 14] Homework 9 - TBA
 
 ---
 https://ibu.edu.ba
